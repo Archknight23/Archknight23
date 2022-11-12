@@ -5,8 +5,11 @@
 - 💞️ We're looking to collaborate on weird projects, cool projects, overly ambitious projects, fun stuff. 
 - 📫 How to reach us: 
      > [Twitch](https://Twitch.tv/archknight23)
+     
      > [The Foundry](https://chaosfoundry.co/)
+     
      > [Our Youtube Channel](https://www.youtube.com/channel/UCX62Y3HCvVsqEKvG-wEaQdA)
+     
      > [Our Twitter](https://twitter.com/Archknight23)
      
      > [Patreon](https://patreon.com/TheChaosGumi)
