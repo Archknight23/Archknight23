@@ -6,7 +6,7 @@
 - 📫 How to reach us: 
      > [Twitch](https://Twitch.tv/archknight23)
      
-     > [The Foundry](https://chaosfoundry.co/)
+     > [The Foundry](https://chaosfoundry.digital/)
      
      > [Our Youtube Channel](https://www.youtube.com/channel/UCX62Y3HCvVsqEKvG-wEaQdA)
      
